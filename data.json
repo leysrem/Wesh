@@ -1,0 +1,471 @@
+[
+
+    {
+        "id" : 1,
+        "title" : "Cloths",
+            "Sub-category" : [
+                {
+                    "id" : 1,
+                    "title" : "Cap",
+                        "products" : [
+                            {
+                                "id" : 1,
+                                "title" : "Casquette Wati B",
+                                "image" :"url",
+                                "price" : 0.80
+                            },
+                            {
+                                "id" : 2,
+                                "title" : "Casquette Trucker",
+                                "image" :"url",
+                                "price" : 1.98
+                            },
+                            {
+                                "id" : 3,
+                                "title" : "Casquette Unkut",
+                                "image" :"url",
+                                "price" : 1.58
+                            },
+                            {
+                                "id" : 4,
+                                "title" : "Casquette New York Yankees",
+                                "image" :"url",
+                                "price" : 1.80
+                            },
+                            {
+                                "id" : 5,
+                                "title" : "Casquette Baseball buu noir",
+                                "image" :"url",
+                                "price" : 1.59
+                            },
+                            {
+                                "id" : 6,
+                                "title" : "Casquette Levis driver noir",
+                                "image" :"url",
+                                "price" : 1.45
+                            },
+                            {
+                                "id" : 7,
+                                "title" : "Casquette Trucker Camo",
+                                "image" :"url",
+                                "price" : 1.86
+                            },
+                            {
+                                "id" : 8,
+                                "title" : "Bob Flag noit",
+                                "image" :"url",
+                                "price" : 1.40
+                            },
+                            {
+                                "id" : 9,
+                                "title" : "Casquette Established 7352 Noir",
+                                "image" :"url",
+                                "price" : 1.26
+                            },
+                            {
+                                "id" : 10,
+                                "title" : "Casquette Linea Man E8GWAK13 Noir RenaissanceB",
+                                "image" :"url",
+                                "price" : 1.99
+                            }
+                        ]
+
+                },
+                {
+                    "id" : 2,
+                    "title" : "Sweater",
+                        "products" : [
+                            {
+                                "id" : 11,
+                                "title" : "Pull trasher",
+                                "size" : "size",
+                                "principal color" : "black",
+                                "secondary color" : "white",
+                                "Height" : 90,
+                                "width" : 30,
+                                "weight" : 40,
+                                "reference" : "Ab052452",
+                                "weshing condition" : "fresh",
+                                "drying condition" : "clair",
+                                "gender" : "Other",
+                                "Material" : "cotton",
+                                "Fabrication's place" : "New-York",
+                                "Style" : "Ugly",
+                                "Season" : "Winter",
+                                "image" : "url",
+                                "price " : 1.8
+                            }
+                        ]
+                },
+                {
+                    "id" : 3,
+                    "title" : "Pull over",
+                        "products" : [
+                            {
+                                "id" : 12,
+                                "title" : "A REMPLIR",
+                                "image" : "url",
+                                "price" : 1.98
+                            }
+                        ]
+                },
+                {
+                    "id" : 4,
+                    "title" : "Male Clothes",
+                        "products" : [
+                            {
+                                "id" : 13,
+                                "title" : "Pull thrasher",
+                                "image" : "url",
+                                "price" : 1.8
+                            }
+                        ]
+
+                },
+                {
+                    "id" : 5,
+                    "title" : "Female Clothes",
+                        "products" : [
+                            {
+                                "id" : 14,
+                                "title" : "Yellow disty floral wrap playsuit",
+                                "image" : "url",
+                                "price" : 1.02
+                            }
+                        ]
+                },
+                {
+                    "id" : 6,
+                    "title" : "Leather",
+                        "products" : [
+                            {
+                                "id" : 15,
+                                "title" : "Blouson motard en daimblankmyc",
+                                "image" : "url",
+                                "price" : 1.52
+                            }
+                        ]
+                },
+                {
+                    "id" : 7,
+                    "title" : "Socks",
+                        "products" : [
+                            {
+                                "id" : 16,
+                                "title" : "chausette nike",
+                                "image" : "url",
+                                "price" : 0.20
+                            }
+                        ]
+                },
+                {
+                    "id" : 8,
+                    "title" : "Shoes",
+                        "products" : [
+                            {
+                                "id" : 15,
+                                "title" : "Airmax 270",
+                                "image" : "url",
+                                "price" : 1.23
+                            }
+                        ]  
+                },
+                {
+                    "id" : 9,
+                    "title" : "baby clothes",
+                        "products" : [
+                            {
+                                "id" : 16,
+                                "title" : "Airmax 270",
+                                "image" : "url",
+                                "price" : 1.23
+                            }
+                        ]  
+                },
+                {
+                    "id" : 10,
+                    "title" : "Polo",
+                        "products" : [
+                            {
+                                "id" : 17,
+                                "title" : "polo versace",
+                                "image" : "url",
+                                "price" : 1.37
+                            }
+                        ]  
+                },
+                {
+                    
+                    "id" : 11,
+                    "title" : "Polo",
+                        "products" : [
+                            {
+                                "id" : 18,
+                                "title" : "polo versace",
+                                "image" : "url",
+                                "price" : 1.37
+                            }
+                        ]    
+                }
+
+            ] 
+    },
+    {
+        "id" : 2,
+        "title" : "Vehicules",
+            "Sub-category" : [
+                {
+                    "id" : 12,
+                    "title" : "2 wheels",
+                        "products" : [
+                            {
+                                "id" : 19,
+                                "title" : "Tmax 530",
+                                "image" : "url",
+                                "price" : 1.37
+                            }
+                        ]
+                }
+            ]
+    },
+    {
+        "id" : 3,
+        "title" : "Sports",
+            "Sub-category" : [
+                {
+                    "id" : 20,
+                    "title" : "Altères",
+                        "products" : [
+                            {
+                                "id" : 13,
+                                "title" : "Altère 30kd",
+                                "image" : "url",
+                                "price" : 0.95
+                            }
+                        ]
+                }
+            ]
+
+    },
+    {
+        "id" : 4,
+        "title" : "Sports",
+            "Sub-category" : [
+                {
+                    "id" : 14,
+                    "title" : "Altères",
+                        "products" : [
+                            {
+                                "id" : 21,
+                                "title" : "Altère 30kg",
+                                "image" : "url",
+                                "price" : 0.95
+                            }
+                        ]
+                }
+            ]
+
+    },
+    {
+        "id" : 5,
+        "title" : "Tools",
+            "Sub-category" : [
+                {
+                    "id" : 15,
+                    "title" : "Garden",
+                        "products" : [
+                            {
+                                "id" : 22,
+                                "title" : "Shovel",
+                                "image" : "url",
+                                "price" : 1.23
+                            }
+                        ]
+                }
+            ]
+    },
+    {
+        "id" : 6,
+        "title" : "Smoking",
+            "Sub-category" : [
+                {
+                    "id" : 16,
+                    "title" : "CBD",
+                        "products" : [
+                            {
+                                "id" : 23,
+                                "title" : "Amnesia indoor 19.5%",
+                                "image" : "url",
+                                "price" : 1.99
+                            }
+                        ]
+                },
+                {
+                    "id" : 17,
+                    "title" : "Liquide",
+                        "products" : {
+                            "id" : 24,
+                            "title" : "Liquide fruit du dragon",
+                            "image" : "url",
+                            "price" : 1.25
+                        }
+                }
+            ]
+    },
+    {
+        "id" : 7,
+        "title" : "Smoking",
+            "Sub-category" : [
+                {
+                    "id" : 18,
+                    "title" : "Watch",
+                        "products" : [
+                            {
+                                "id" : 25,
+                                "title" : "Rolex",
+                                "image" : "url",
+                                "price" : 1.45
+                            }
+                        ]
+                },
+                {
+                    "id" : 19,
+                    "title" : "Ring",
+                        "products" : {
+                            "id" : 26,
+                            "title" : "Bague de luxe",
+                            "image" : "url",
+                            "price" : 1.68
+                        }
+                }
+            ] 
+    },
+    {
+        "id" : 8,
+        "title" : "Technology",
+            "Sub-category" : [
+                {
+                    "id" : 20,
+                    "title" : "Screen",
+                        "products" : [
+                            {
+                                "id" : 27,
+                                "title" : "Ecran gygabytes 144 hz",
+                                "image" : "url",
+                                "price" : 1.87
+                            }
+                        ]
+                }
+            ]  
+    },
+    {
+        "id" : 9,
+        "title" : "Board Games",
+            "Sub-category" : [
+                {
+                    "id" : 21,
+                    "title" : "Familial games",
+                        "products" : [
+                            {
+                                "id" : 28,
+                                "title" : "La bonne paie",
+                                "image" : "url",
+                                "price" : 0.98
+                            }
+                        ]
+                }
+            ]  
+    },
+    {
+        "id" : 10,
+        "title" : "Video Games",
+            "Sub-category" : [
+                {
+                    "id" : 22,
+                    "title" : "Action",
+                        "products" : [
+                            {
+                                "id" : 29,
+                                "title" : "Escape from tarkov",
+                                "image" : "url",
+                                "price" : 0.98
+                            }
+                        ]
+                },
+                {
+                    "id" : 23,
+                    "title" : "Strategy",
+                        "products" : [
+                            {
+                                "id" : 30,
+                                "title" : "Civilization 6",
+                                "image" : "url",
+                                "price" : 1.54
+                            }
+                        ]
+                }
+            ] 
+
+    },
+    {
+        "id" : 11,
+        "title" : "DIY",
+            "Sub-category" : [
+                {
+                    "id" : 24,
+                    "title" : "Hammer",
+                        "products" : [
+                            {
+                                "id" : 31,
+                                "title" : "Marteau de menuisier bois verni",
+                                "image" : "url",
+                                "price" : 1.21
+                            }
+                        ]
+                }
+            ]  
+
+    },
+    {
+        "id" : 12,
+        "title" : "Books",
+            "Sub-category" : [
+                {
+                    "id" : 25,
+                    "title" : "Light novel",
+                        "products" : [
+                            {
+                                "id" : 32,
+                                "title" : "Bleach can fear your own world",
+                                "image" : "url",
+                                "price" : 1.21
+                            }
+                        ]
+                },
+                {
+                    "id" : 26,
+                    "title" : "Roman",
+                        "products" : [
+                            {
+                                "id" : 33,
+                                "title" : "Harry Potter à l'école des sorciers",
+                                "image" : "url",
+                                "price" : 0.58
+                            }
+                        ]
+                },
+                {
+                    "id" : 27,
+                    "title" : "Mangas",
+                        "products" : [
+                            {
+                                "id" : 34,
+                                "title" : "Naruto tome 1",
+                                "image" : "url",
+                                "price" : 0.58
+                            }
+                        ]  
+                }
+            ]     
+    }   
+]
