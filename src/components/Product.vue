@@ -6,8 +6,8 @@
     <div class="card-body">
       <h5 class="card-title">Rolex de luxe</h5>
       <p class="card-text">1.45 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -16,8 +16,8 @@
     <div class="card-body">
       <h5 class="card-title">CBD 10g</h5>
       <p class="card-text">1.99 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -26,8 +26,8 @@
     <div class="card-body">
       <h5 class="card-title">Bague de luxe</h5>
       <p class="card-text">1.68 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -36,8 +36,8 @@
     <div class="card-body">
       <h5 class="card-title">Pull trasher</h5>
       <p class="card-text">1.80 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -46,8 +46,8 @@
     <div class="card-body">
       <h5 class="card-title">Tmax 530</h5>
       <p class="card-text">1.47 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -56,8 +56,8 @@
     <div class="card-body">
       <h5 class="card-title">Liquide</h5>
       <p class="card-text">1.25 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -66,8 +66,8 @@
     <div class="card-body">
       <h5 class="card-title">Casquette Wati B</h5>
       <p class="card-text">0.80 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -76,8 +76,8 @@
     <div class="card-body">
       <h5 class="card-title">Whisky Jack-Daniels Honey</h5>
       <p class="card-text">1.58 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -86,8 +86,8 @@
     <div class="card-body">
       <h5 class="card-title">trotinette de luxe</h5>
       <p class="card-text">1.28 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
@@ -96,17 +96,14 @@
     <div class="card-body">
       <h5 class="card-title">Escape from tarkov</h5>
       <p class="card-text">1.55 euros</p>
-      <a href="#" class="btn btn-primary">Ajouter</a>
-      <a href="#" class="btn btn-primary">Afficher</a>
+      <a href="Cart" class="btn btn-primary">Ajouter</a>
+      <a href="productSheet" class="btn btn-primary">Afficher</a>
     </div>
   </div>
 
 </div>
 
 </template>
-<script>
- 
-</script>
 
 
 
